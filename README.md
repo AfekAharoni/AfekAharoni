@@ -4,8 +4,6 @@
 
 # Afek Aharoni
 
-Software Engineer  
-Computer Science
 
 Portfolio  
 https://afekaharoni.github.io/
