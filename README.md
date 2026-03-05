@@ -4,7 +4,6 @@
 
 # Afek Aharoni
 
-Portfolio  
 <a href="https://afekaharoni.github.io/">Visit my portfolio</a>
 
 </div>
