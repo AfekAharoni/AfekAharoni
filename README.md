@@ -6,8 +6,7 @@
 
 
 Portfolio  
-https://afekaharoni.github.io/
-
+[Visit my portfolio](https://afekaharoni.github.io/)
 </div>
 
 ---
