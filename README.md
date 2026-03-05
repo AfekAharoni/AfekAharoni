@@ -7,7 +7,7 @@
 Software Engineer  
 Computer Science
 
-🌐 Portfolio  
+Portfolio  
 https://afekaharoni.github.io/
 
 </div>
