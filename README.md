@@ -4,9 +4,9 @@
 
 # Afek Aharoni
 
-
 Portfolio  
-[Visit my portfolio](https://afekaharoni.github.io/)
+<a href="https://afekaharoni.github.io/">Visit my portfolio</a>
+
 </div>
 
 ---
